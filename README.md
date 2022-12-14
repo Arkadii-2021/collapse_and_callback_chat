@@ -1,2 +1,1 @@
-# Анимации и CSS
-
+# css animation --> 'collapse' and 'callback chat'
